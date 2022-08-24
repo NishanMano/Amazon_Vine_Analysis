@@ -35,5 +35,5 @@ Different ways of retrieving the same results using two different methods. I bel
 
 - All the other reviewers equate to approximately 15663/40471 = 0.3870 = 38.70% 
 ------
-## Results 
+## Results:
 I would conclude that there is some sort of positive bias between the incentivized reviewers versus the rest of the reviewers. I strongly believe in the video game database that the incentivized reviewers are providing 5-star reviewers far more than all other reviewers. There can be many possible reasons for this to occur. A good reason in my belief is that these incentivized reviewers can obtain a copy of the game far earlier than others. When video games are released there tends to be a lot of hype around that specific game. Also in certain games, you start seeing more bugs/glitches in games over time that require fixes. Another possibility is that over time people can hack the game, which would attribute to a negative gaming experience for others. I would like to test the other star ratings as this could provide more insight and trends that we may not particularly see only in 5-star reviews.
