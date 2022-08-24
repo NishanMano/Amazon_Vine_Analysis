@@ -1,4 +1,4 @@
-# Analysis on Amazon Reviews 
+# Analysis of Amazon Reviews 
 
 ## Overview: 
 ### About the Amazon Vine Program:
